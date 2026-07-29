@@ -1,4 +1,4 @@
-# NPTEL Programming in Java
+# NPTEL Data Structure and Algorithms using JAVA
 
 ## Week 1 Quiz
 
